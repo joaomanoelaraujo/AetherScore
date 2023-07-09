@@ -1,0 +1,10 @@
+Settings:
+  update-interval-seconds: 1
+  toggle-command: 'scoreboard'
+  timezone: 'America/New_York'
+  time-format: 'HH:mm a'
+  update-checker: true
+  disable-stats: false
+  disabled-worlds:
+    - 'disabled-world-1'
+    - 'disabled-world-2'

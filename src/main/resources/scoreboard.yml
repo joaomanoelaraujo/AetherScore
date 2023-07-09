@@ -1,0 +1,27 @@
+tick-interval: 5
+scoreboard-title:
+  - '&a&lE'
+  - '&a&lEX'
+  - '&f&lEXE'
+  - '&f&lEXEM'
+  - '&f&lEXEMP'
+  - '&f&lEXEMPL'
+  - '&f&lEXEMPLO'
+  - '&a&lEXEMPLO'
+  - '&f&lEXEMPLO'
+  - '&a&lEXEMPLO'
+  - '&f&lEXEMPLO'
+  - '&a&lEXEMPLO'
+  - '&f&lEXEMPLO'
+  - '&a&lEXEMPLO'
+  - '&a&lEXEMPL'
+  - '&a&lEXEMP'
+  - '&f&lEXEM'
+  - '&f&lEXE'
+  - '&f&lEX'
+  - '&f&lE'
+lines:
+  - ""
+  - "Lobby: &a#1"
+  - ""
+  - "&ewww.aether.com"

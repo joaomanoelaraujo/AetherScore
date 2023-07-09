@@ -1,0 +1,7 @@
+author: D4RKK
+name: AetherScoreboard
+version: 1.1
+depend: [PlaceholderAPI]
+
+
+main: me.lostedark.aetherplugins.scoreboard.Main
